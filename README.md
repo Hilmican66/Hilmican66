@@ -5,6 +5,4 @@
 - 📫 How to reach me ...
 
 <!---
-Hilmican66/Hilmican66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hilmican66/Hilmican66 Yozgat Arkadaşlar bu Git Hup Ne işe yarıyor sürekli rootlarimda bu çıkıyor telefonumda 
